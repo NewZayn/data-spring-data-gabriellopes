@@ -1,4 +1,4 @@
-package com.example.demo_spring_data_Gabriel_Lopes.services;
+package com.example.demo_spring_data_Gabriel_Lopes.jpa;
 import jakarta.persistence.*;
 
 
